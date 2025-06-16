@@ -1,9 +1,9 @@
 package handlers
 
 import (
-	"my-app/pkg/config"
-	"my-app/pkg/models"
-	"my-app/pkg/render"
+	"github.com/sidn/bookings/pkg/config"
+	"github.com/sidn/bookings/pkg/models"
+	"github.com/sidn/bookings/pkg/render"
 	"net/http"
 )
 

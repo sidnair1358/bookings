@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
+	"github.com/sidn/bookings/pkg/config"
+	"github.com/sidn/bookings/pkg/handlers"
+	"github.com/sidn/bookings/pkg/render"
 	"log"
-	"my-app/pkg/config"
-	"my-app/pkg/handlers"
-	"my-app/pkg/render"
 	"net/http"
 	"time"
 

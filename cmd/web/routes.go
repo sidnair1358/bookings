@@ -1,8 +1,8 @@
 package main
 
 import (
-	"my-app/pkg/config"
-	"my-app/pkg/handlers"
+	"github.com/sidn/bookings/pkg/config"
+	"github.com/sidn/bookings/pkg/handlers"
 	"net/http"
 
 	"github.com/go-chi/chi/v5"

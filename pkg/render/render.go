@@ -2,10 +2,10 @@ package render
 
 import (
 	"bytes"
+	"github.com/sidn/bookings/pkg/config"
+	"github.com/sidn/bookings/pkg/models"
 	"html/template"
 	"log"
-	"my-app/pkg/config"
-	"my-app/pkg/models"
 	"net/http"
 	"path/filepath"
 )
